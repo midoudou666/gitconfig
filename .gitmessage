@@ -1,0 +1,9 @@
+type: feature | fix | other
+scope: 
+subject: 
+issue:
+
+#type: 提交类型。 选项说明： feature:新功能 fix:修补bug other:其他
+#scope: 影响范围
+#subject: 简短说明
+#issue: 此修改关联的问题单链接
